@@ -1,0 +1,136 @@
+.head{
+  background-color:  #c7cfed;
+ padding-top: 5%;
+
+}
+.navbar{
+  padding-left: 2%;
+  padding-bottom: 8%;
+}
+.cloud{
+  width: 15%;
+  margin: 0 15% 2% 15%;
+
+
+}
+.tree{
+  height: 30%;
+  width: 70%;
+
+}
+.barsha{
+
+  color: #248a8a;
+  font-size: 5rem;
+  margin: 0;
+
+}
+.develop {
+  color: #698278;
+  font-size: 10px;
+  margin-bottom: 0;
+
+
+
+}
+
+
+
+/* 2nd part */
+
+p{
+  color: #3c3f42;
+  font-size: 18px;
+
+}
+
+.about{
+margin-bottom: 10%;
+
+}
+.description{
+  padding: 2% 25% 5% 25%;
+}
+
+/* 3rd part */
+
+.skills{
+  background-color:  #e1f1f2;
+  padding: 0 0 10% 0;
+
+}
+.iconi
+{
+  width: 35px;
+  padding-bottom: 2%;
+}
+.iconie:hover{
+  width: 40px;
+}
+
+/* project */
+
+.work{
+  margin: 0 10% 15% 10%;
+}
+.project-image
+{
+  border-radius: 6%;
+  width: 80%;
+}
+.project-image:hover{
+  width: 100%;
+}
+.spacing{
+  padding: 2% 2% 2% 2%;
+
+}
+.project{
+  background-color: #f7f0f1;
+  margin-left: 5%;
+  margin-right: 2%;
+  padding-top: 3%;
+
+}
+
+/* hobby */
+
+.interest{
+  background-color: #e1f2e2;
+  padding: 0 0 10% 0;
+}
+
+/* ending */
+.end{
+  margin: 0 0 5% 0;
+}
+.iconii{
+  width: 30px;
+  margin-left: 1%;
+  margin-right: 1%;
+
+}
+.git-size{
+  width: 35px;
+}
+a{
+  text-decoration: none;
+  color: #7c807d;
+}
+
+.hand-fonts{
+  font-family: 'Rancho', cursive;
+  font-size: 2.5rem;
+  color: #7c807d;
+}
+.normal-font{
+  font-family: 'Neucha', cursive;
+  font-size: 1.5rem;
+}
+.cursive-font{
+  font-family: 'Reenie Beanie', cursive;
+}
+.copy-right{
+  font-size: 20px;
+  padding: 2%;
+}
