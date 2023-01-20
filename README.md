@@ -1,2 +1,2 @@
 # Live website link
-https://paul-111.github.io/portfolio/
+https://paul-111.github.io/Portfolio/
